@@ -57,7 +57,7 @@ npm run coverage
 ## Ropsten
 
 * Address of the contract : 0xc232e17876c45a38eb088d12ab74c14481c75360#code
-* Etherscan Token Link: https://ropsten.etherscan.io/address/0xc232e17876c45a38eb088d12ab74c14481c75360
+* Etherscan Token Link: https://ropsten.etherscan.io/token/0xc232e17876c45a38eb088d12ab74c14481c75360
 * Etherscan Contract Link : https://ropsten.etherscan.io/address/0xc232e17876c45a38eb088d12ab74c14481c75360
 
 ## Mainnet
