@@ -1,0 +1,22 @@
+{
+  "name": "pcltoken",
+  "version": "1.0.0",
+  "description": "Peculium token contract final",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "bignumber.js": "^8.0.2",
+    "openzeppelin-solidity": "^2.1.2",
+    "solidity-coverage": "^0.5.11",
+    "truffle-assertions": "^0.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha",
+    "coverage": "./node_modules/.bin/solidity-coverage"
+  },
+  "author": "Mohamed Amine LEGHERABA",
+  "license": "ISC"
+}
