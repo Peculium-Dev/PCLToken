@@ -45,6 +45,7 @@ truffle deploy
 ```
 
 ### Run tests
+(start local blockchain on port 8545)
 ```
 truffle test
 ```
