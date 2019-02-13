@@ -29,10 +29,9 @@ git clone https://github.com/Peculium-Dev/PCLToken
 cd PCLToken
 npm install -g truffle
 npm install -g coveralls
-npm install truffle-assertions (>=0.4.0)
+npm install truffle-assertions
 npm install --save-dev solidity-coverage
 npm install -E openzeppelin-solidity
-npm install truffle-hdwallet-provider
 ```
 
 ### Compile
