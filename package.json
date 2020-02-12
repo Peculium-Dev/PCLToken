@@ -8,9 +8,9 @@
   },
   "dependencies": {
     "bignumber.js": "^8.0.2",
-    "openzeppelin-solidity": "^2.1.2",
+    "openzeppelin-solidity": "2.5.0",
     "solidity-coverage": "^0.5.11",
-    "truffle-assertions": "^0.8.0"
+    "truffle-assertions": "^0.8.2"
   },
   "devDependencies": {},
   "scripts": {
